@@ -1,4 +1,4 @@
-## CSS Dependencies to NGX-QUILL
+### CSS Dependencies to NGX-QUILL
 
 Classes and custom fonts to ngx-quill editor
 
