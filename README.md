@@ -7,7 +7,3 @@ Classes and custom fonts to ngx-quill editor
 After install inport in your project 
 
 @import "./node_modules/css-ngx-quill/index.css"
-
-or
-
-<link rel="stylesheet" type="text/css" href="./node_modules/css-ngx-quill/index.css">
