@@ -10,4 +10,4 @@ After install inport in your project
 
 or
 
-<link rel="stylesheet" type="text/css" href="./node_modules/css-ngx-quill/index.css">
+##### <link rel="stylesheet" type="text/css" href="./node_modules/css-ngx-quill/index.css">
