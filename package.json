@@ -1,6 +1,6 @@
 {
   "name": "css-ngx-quill",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Pacote css para ngx-quill",
   "main": "index.css",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/EvandroNeris/css-ngx-quill.git"
   },
-  "keywords": [],
+  "keywords": ["ngx-quill", "html editor", "styles"],
   "author": "Evandro Neris <evandroneris95@hotmail.com> (https://github.com/EvandroNeris)",
   "license": "ISC",
   "bugs": {

@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Helvetica";
+  src: url("./utils/fonts/Helvetica/Helvetica.ttf");
+}
+
+@font-face {
+  font-family: "Times";
+  src: url("./utils/fonts/Helvetica/TIMESR.ttf");
+}
+
+@font-face {
+  font-family: "Bebas";
+  src: url("./Bebas/Bebas-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Bodoni";
+  src: url("./Bodoni/BodoniFLF-Roman.ttf");
+}
+
+@font-face {
+  font-family: "Didot";
+  src: url("./Didot/Didot-HTF-M96-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Futura";
+  src: url("./Futura/futur.ttf");
+}
+
+@font-face {
+  font-family: "Georgia";
+  src: url("./Georgia/georgia.ttf");
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url("./Gotham/Gotham-Light.otf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Myriad";
+  src: url("./Myriad/MYRIADPRO-REGULAR.OTF");
+}
+
+@font-face {
+  font-family: "Rockwell";
+  src: url("./Rockwell/rockwell.otf");
+}
+
+@font-face {
+  font-family: "Rockwell";
+  src: url("./Rockwell/rockwell.otf");
+}

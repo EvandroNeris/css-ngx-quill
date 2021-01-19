@@ -1,11 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
-
-
-@font-face {
-  font-family: "Helvetica";
-  src: url("./utils/fonts/Helvetica/Helvetica.ttf");
-}
+@import './utils/fonts/fonts.css';
 
 
 /* HTML EDITOR */
@@ -98,6 +93,47 @@
 
 ::ng-deep.ql-font-helvetica {
   font-family: 'Helvetica';
+}
+
+
+::ng-deep.ql-font-times {
+  font-family: 'Times';
+}
+
+::ng-deep.ql-font-bebas {
+  font-family: 'Bebas';
+}
+
+::ng-deep.ql-font-bodoni {
+  font-family: 'Bodoni';
+}
+
+::ng-deep.ql-font-didot {
+  font-family: 'Didot';
+}
+
+::ng-deep.ql-font-futura {
+  font-family: 'Futura';
+}
+
+::ng-deep.ql-font-georgia {
+  font-family: 'Georgia';
+}
+
+::ng-deep.ql-font-gotham {
+  font-family: 'Gotham';
+}
+
+::ng-deep.ql-font-montserrat {
+  font-family: 'Montserrat';
+}
+
+::ng-deep.ql-font-myriad {
+  font-family: 'Myriad';
+}
+
+::ng-deep.ql-font-rockwell {
+  font-family: 'Rockwell';
 }
 
 /* Fonts */
