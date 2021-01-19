@@ -1,6 +1,6 @@
 {
   "name": "css-ngx-quill",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Pacote css para ngx-quill",
   "main": "index.css",
   "scripts": {

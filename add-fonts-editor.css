@@ -1,0 +1,116 @@
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=roboto]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=roboto]::before {
+  content: 'Roboto';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="roboto"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="roboto"]::before {
+    content: 'Roboto';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=ubuntu]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=ubuntu]::before {
+  content: 'Ubuntu';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="ubuntu"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="ubuntu"]::before {
+    content: 'Ubuntu';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=ubuntu]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=ubuntu]::before {
+  content: 'Ubuntu';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="ubuntu"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="ubuntu"]::before {
+    content: 'Ubuntu';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=times]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=times]::before {
+  content: 'Times';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="times"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="times"]::before {
+    content: 'Times';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=bebas]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=bebas]::before {
+  content: 'Bebas';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="bebas"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="bebas"]::before {
+    content: 'Bebas';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=bodoni]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=bodoni]::before {
+  content: 'Bodoni';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="bodoni"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="bodoni"]::before {
+    content: 'Bodoni';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=didot]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=didot]::before {
+  content: 'Didot';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="didot"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="didot"]::before {
+    content: 'Didot';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=futura]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=futura]::before {
+  content: 'Futura';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="futura"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="futura"]::before {
+    content: 'Futura';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=georgia]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=georgia]::before {
+  content: 'Georgia';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="georgia"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="georgia"]::before {
+    content: 'Georgia';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=gotham]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=gotham]::before {
+  content: 'Gotham';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="gotham"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="gotham"]::before {
+    content: 'Gotham';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=montserrat]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=montserrat]::before {
+  content: 'Montserrat';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="montserrat"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="montserrat"]::before {
+    content: 'Montserrat';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=myriad]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=myriad]::before {
+  content: 'Myriad';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="myriad"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="myriad"]::before {
+    content: 'Myriad';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-label[data-value=rockwell]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=rockwell]::before {
+  content: 'Rockwell';
+}
+
+::ng-deep.ql-snow .ql-picker.ql-font .ql-picker-item[data-value="rockwell"]::before,
+.ql-snow .ql-picker.ql-font .ql-picker-label.ql-active[data-value="rockwell"]::before {
+    content: 'Rockwell';
+}
